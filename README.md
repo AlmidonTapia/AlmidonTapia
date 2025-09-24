@@ -1,15 +1,15 @@
 
 <div align="center">
   
-# ¡Hola! Soy Saúl Tapia �
+# ¡Hola! Soy Saúl Tapia 
 
-### 💻 Desarrollador Full Stack | 🚀 Apasionado por la Tecnología
+### 💻 Desarrollador Back-End | 🚀 Apasionado por la Tecnología
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Back-end;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,14 +19,14 @@
 
 <div align="center">
 
-### Frontend
-![Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap)
+### 💻 Languages
+![Skills](https://skillicons.dev/icons?i=cs,java,py,ts,js)
 
-### Backend & Bases de Datos
-![Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,mysql)
+### 🚀 Frameworks, IDEs and Libraries  
+![Skills](https://skillicons.dev/icons?i=dotnet,angular,vscode,idea,androidstudio,spring,nodejs)
 
-### Herramientas de Desarrollo
-![Skills](https://skillicons.dev/icons?i=git,figma,postman,vscode)
+### 🔧 Others
+![Skills](https://skillicons.dev/icons?i=git,postman,figma,mongodb,postgres,mysql,windows,linux,ubuntu)
 
 </div>
 
@@ -57,8 +57,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlmidonTapia)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almts.04@gmail.com)
 
 </div>
 
