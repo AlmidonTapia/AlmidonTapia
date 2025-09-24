@@ -1,49 +1,73 @@
 
-<h2 align="left">Hola, Soy Saul 👨🏻‍💻</h2>
+<div align="center">
+  
+# ¡Hola! Soy Saúl Tapia �
+
+### 💻 Desarrollador Full Stack | 🚀 Apasionado por la Tecnología
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlmidonTapia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparente&locale=en&hide_border=false&hide=issues,contribs" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlmidonTapia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="boostrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sqlserver logo"  />
-  </br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+
+### Frontend
+![Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap)
+
+### Backend & Bases de Datos
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,mysql)
+
+### Herramientas de Desarrollo
+![Skills](https://skillicons.dev/icons?i=git,figma,postman,vscode)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=fccc63&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=db4a39&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlmidonTapia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmidonTapia&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlmidonTapia&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlmidonTapia/AlmidonTapia/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🤝 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "El código es poesía en movimiento"
+![Profile Views](https://komarev.com/ghpvc/?username=AlmidonTapia&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/AlmidonTapia?label=Followers&style=social)](https://github.com/AlmidonTapia)
+
+</div>
