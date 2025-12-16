@@ -19,7 +19,7 @@
 ![Lenguajes](https://skillicons.dev/icons?i=cs,java,py,ts,js)
 
 ### 🚀 Frameworks, IDEs y Librerías  
-![Herramientas](https://skillicons.dev/icons?i=dotnet,angular,vscode,idea,androidstudio,spring,nodejs)
+![Herramientas](https://skillicons.dev/icons?i=angular,vscode,idea,androidstudio,spring,nodejs)
 
 ### 🔧 Otras Herramientas
 ![Otras](https://skillicons.dev/icons?i=git,postman,figma,mongodb,postgres,mysql,windows,linux,ubuntu)
